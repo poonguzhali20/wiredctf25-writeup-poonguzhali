@@ -1,5 +1,5 @@
 # ESP-ionage-2.0(Embedded):
-    This was an embedded embedded ctf challenge. I connected my system to espionage wifi. I used this IP: 192.168.4.1 id and    entered into page. 
+    This was an embedded embedded ctf challenge. I connected my system to espionage wifi. I used this IP: 192.168.4.1 id and entered into page. 
     1."nothing to see here", it was shown in that page
     2.So I right clicked it and entered view page source
     3.grep -i flag 192.168.4.1/index.html, after using this command it said file not found and a hint was given as Z28gdG8gL2dob3N0.
